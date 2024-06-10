@@ -1,0 +1,209 @@
+Apr  2 10:15:21 server sshd[1234]: Failed password for invalid user test1 from 192.168.1.100 port 12345 ssh2
+Apr  3 12:30:45 server sshd[5678]: Accepted password for admin from 203.0.113.1 port 54321 ssh2
+Apr  4 08:45:12 server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  5 16:20:30 server sshd[9876]: pam_unix(sshd:session): session opened for user user1 by (uid=0)
+Apr  6 14:55:02 server sshd[2345]: Failed password for root from 198.51.100.1 port 98765 ssh2
+Apr  7 09:10:11 server sshd[3456]: Accepted password for admin from 203.0.113.2 port 65432 ssh2
+Apr  8 11:25:55 server sudo: pam_unix(sudo:session): session closed for user root
+Apr  9 13:40:18 server sshd[8765]: Failed password for invalid user test2 from 192.168.1.101 port 23456 ssh2
+Apr 10 17:00:33 server sshd[4321]: Accepted password for user1 from 198.51.100.2 port 34567 ssh2
+Apr 11 09:45:44 server sshd[5678]: Failed password for root from 203.0.113.3 port 87654 ssh2
+Apr 12 14:35:27 server sshd[7890]: Accepted password for admin from 192.168.1.102 port 45678 ssh2
+Apr 13 08:20:14 server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 14 16:10:09 server sshd[8901]: Failed password for invalid user test3 from 198.51.100.3 port 56789 ssh2
+Apr 15 12:55:36 server sshd[1234]: Accepted password for user1 from 203.0.113.4 port 67890 ssh2
+Apr 16 10:30:28 server sudo: pam_unix(sudo:session): session closed for user root
+Apr 17 13:15:05 server sshd[2345]: Failed password for root from 192.168.1.103 port 78901 ssh2
+Apr 18 15:50:22 server sshd[3456]: Accepted password for admin from 198.51.100.4 port 89012 ssh2
+Apr 19 09:40:17 server sshd[4567]: Failed password for invalid user test4 from 203.0.113.5 port 90123 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr  2 10:15:21 server sshd[1234]: Failed password for invalid user test1 from 192.168.1.100 port 12345 ssh2
+Apr  3 12:30:45 server sshd[5678]: Accepted password for admin from 203.0.113.1 port 54321 ssh2
+Apr  4 08:45:12 server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  5 16:20:30 server sshd[9876]: pam_unix(sshd:session): session opened for user user1 by (uid=0)
+Apr  6 14:55:02 server sshd[2345]: Failed password for root from 198.51.100.1 port 98765 ssh2
+Apr  7 09:10:11 server sshd[3456]: Accepted password for admin from 203.0.113.2 port 65432 ssh2
+Apr  8 11:25:55 server sudo: pam_unix(sudo:session): session closed for user root
+Apr  9 13:40:18 server sshd[8765]: Failed password for invalid user test2 from 192.168.1.101 port 23456 ssh2
+Apr 10 17:00:33 server sshd[4321]: Accepted password for user1 from 198.51.100.2 port 34567 ssh2
+Apr 11 09:45:44 server sshd[5678]: Failed password for root from 203.0.113.3 port 87654 ssh2
+Apr 12 14:35:27 server sshd[7890]: Accepted password for admin from 192.168.1.102 port 45678 ssh2
+Apr 13 08:20:14 server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 14 16:10:09 server sshd[8901]: Failed password for invalid user test3 from 198.51.100.3 port 56789 ssh2
+Apr 15 12:55:36 server sshd[1234]: Accepted password for user1 from 203.0.113.4 port 67890 ssh2
+Apr 16 10:30:28 server sudo: pam_unix(sudo:session): session closed for user root
+Apr 17 13:15:05 server sshd[2345]: Failed password for root from 192.168.1.103 port 78901 ssh2
+Apr 18 15:50:22 server sshd[3456]: Accepted password for admin from 198.51.100.4 port 89012 ssh2
+Apr 19 09:40:17 server sshd[4567]: Failed password for invalid user test4 from 203.0.113.5 port 90123 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr  2 10:15:21 server sshd[1234]: Failed password for invalid user test1 from 192.168.1.100 port 12345 ssh2
+Apr  3 12:30:45 server sshd[5678]: Accepted password for admin from 203.0.113.1 port 54321 ssh2
+Apr  4 08:45:12 server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  5 16:20:30 server sshd[9876]: pam_unix(sshd:session): session opened for user user1 by (uid=0)
+Apr  6 14:55:02 server sshd[2345]: Failed password for root from 198.51.100.1 port 98765 ssh2
+Apr  7 09:10:11 server sshd[3456]: Accepted password for admin from 203.0.113.2 port 65432 ssh2
+Apr  8 11:25:55 server sudo: pam_unix(sudo:session): session closed for user root
+Apr  9 13:40:18 server sshd[8765]: Failed password for invalid user test2 from 192.168.1.101 port 23456 ssh2
+Apr 10 17:00:33 server sshd[4321]: Accepted password for user1 from 198.51.100.2 port 34567 ssh2
+Apr 11 09:45:44 server sshd[5678]: Failed password for root from 203.0.113.3 port 87654 ssh2
+Apr 12 14:35:27 server sshd[7890]: Accepted password for admin from 192.168.1.102 port 45678 ssh2
+Apr 13 08:20:14 server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 14 16:10:09 server sshd[8901]: Failed password for invalid user test3 from 198.51.100.3 port 56789 ssh2
+Apr 15 12:55:36 server sshd[1234]: Accepted password for user1 from 203.0.113.4 port 67890 ssh2
+Apr 16 10:30:28 server sudo: pam_unix(sudo:session): session closed for user root
+Apr 17 13:15:05 server sshd[2345]: Failed password for root from 192.168.1.103 port 78901 ssh2
+Apr 18 15:50:22 server sshd[3456]: Accepted password for admin from 198.51.100.4 port 89012 ssh2
+Apr 19 09:40:17 server sshd[4567]: Failed password for invalid user test4 from 203.0.113.5 port 90123 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr  2 10:15:21 server sshd[1234]: Failed password for invalid user test1 from 192.168.1.100 port 12345 ssh2
+Apr  3 12:30:45 server sshd[5678]: Accepted password for admin from 203.0.113.1 port 54321 ssh2
+Apr  4 08:45:12 server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  5 16:20:30 server sshd[9876]: pam_unix(sshd:session): session opened for user user1 by (uid=0)
+Apr  6 14:55:02 server sshd[2345]: Failed password for root from 198.51.100.1 port 98765 ssh2
+Apr  7 09:10:11 server sshd[3456]: Accepted password for admin from 203.0.113.2 port 65432 ssh2
+Apr  8 11:25:55 server sudo: pam_unix(sudo:session): session closed for user root
+Apr  9 13:40:18 server sshd[8765]: Failed password for invalid user test2 from 192.168.1.101 port 23456 ssh2
+Apr 10 17:00:33 server sshd[4321]: Accepted password for user1 from 198.51.100.2 port 34567 ssh2
+Apr 11 09:45:44 server sshd[5678]: Failed password for root from 203.0.113.3 port 87654 ssh2
+Apr 12 14:35:27 server sshd[7890]: Accepted password for admin from 192.168.1.102 port 45678 ssh2
+Apr 13 08:20:14 server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 14 16:10:09 server sshd[8901]: Failed password for invalid user test3 from 198.51.100.3 port 56789 ssh2
+Apr 15 12:55:36 server sshd[1234]: Accepted password for user1 from 203.0.113.4 port 67890 ssh2
+Apr 16 10:30:28 server sudo: pam_unix(sudo:session): session closed for user root
+Apr 17 13:15:05 server sshd[2345]: Failed password for root from 192.168.1.103 port 78901 ssh2
+Apr 18 15:50:22 server sshd[3456]: Accepted password for admin from 198.51.100.4 port 89012 ssh2
+Apr 19 09:40:17 server sshd[4567]: Failed password for invalid user test4 from 203.0.113.5 port 90123 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr  2 10:15:21 server sshd[1234]: Failed password for invalid user test1 from 192.168.1.100 port 12345 ssh2
+Apr  3 12:30:45 server sshd[5678]: Accepted password for admin from 203.0.113.1 port 54321 ssh2
+Apr  4 08:45:12 server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  5 16:20:30 server sshd[9876]: pam_unix(sshd:session): session opened for user user1 by (uid=0)
+Apr  6 14:55:02 server sshd[2345]: Failed password for root from 198.51.100.1 port 98765 ssh2
+Apr  7 09:10:11 server sshd[3456]: Accepted password for admin from 203.0.113.2 port 65432 ssh2
+Apr  8 11:25:55 server sudo: pam_unix(sudo:session): session closed for user root
+Apr  9 13:40:18 server sshd[8765]: Failed password for invalid user test2 from 192.168.1.101 port 23456 ssh2
+Apr 10 17:00:33 server sshd[4321]: Accepted password for user1 from 198.51.100.2 port 34567 ssh2
+Apr 11 09:45:44 server sshd[5678]: Failed password for root from 203.0.113.3 port 87654 ssh2
+Apr 12 14:35:27 server sshd[7890]: Accepted password for admin from 192.168.1.102 port 45678 ssh2
+Apr 13 08:20:14 server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 14 16:10:09 server sshd[8901]: Failed password for invalid user test3 from 198.51.100.3 port 56789 ssh2
+Apr 15 12:55:36 server sshd[1234]: Accepted password for user1 from 203.0.113.4 port 67890 ssh2
+Apr 16 10:30:28 server sudo: pam_unix(sudo:session): session closed for user root
+Apr 17 13:15:05 server sshd[2345]: Failed password for root from 192.168.1.103 port 78901 ssh2
+Apr 18 15:50:22 server sshd[3456]: Accepted password for admin from 198.51.100.4 port 89012 ssh2
+Apr 19 09:40:17 server sshd[4567]: Failed password for invalid user test4 from 203.0.113.5 port 90123 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr  2 10:15:21 server sshd[1234]: Failed password for invalid user test1 from 192.168.1.100 port 12345 ssh2
+Apr  3 12:30:45 server sshd[5678]: Accepted password for admin from 203.0.113.1 port 54321 ssh2
+Apr  4 08:45:12 server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  5 16:20:30 server sshd[9876]: pam_unix(sshd:session): session opened for user user1 by (uid=0)
+Apr  6 14:55:02 server sshd[2345]: Failed password for root from 198.51.100.1 port 98765 ssh2
+Apr  7 09:10:11 server sshd[3456]: Accepted password for admin from 203.0.113.2 port 65432 ssh2
+Apr  8 11:25:55 server sudo: pam_unix(sudo:session): session closed for user root
+Apr  9 13:40:18 server sshd[8765]: Failed password for invalid user test2 from 192.168.1.101 port 23456 ssh2
+Apr 10 17:00:33 server sshd[4321]: Accepted password for user1 from 198.51.100.2 port 34567 ssh2
+Apr 11 09:45:44 server sshd[5678]: Failed password for root from 203.0.113.3 port 87654 ssh2
+Apr 12 14:35:27 server sshd[7890]: Accepted password for admin from 192.168.1.102 port 45678 ssh2
+Apr 13 08:20:14 server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 14 16:10:09 server sshd[8901]: Failed password for invalid user test3 from 198.51.100.3 port 56789 ssh2
+Apr 15 12:55:36 server sshd[1234]: Accepted password for user1 from 203.0.113.4 port 67890 ssh2
+Apr 16 10:30:28 server sudo: pam_unix(sudo:session): session closed for user root
+Apr 17 13:15:05 server sshd[2345]: Failed password for root from 192.168.1.103 port 78901 ssh2
+Apr 18 15:50:22 server sshd[3456]: Accepted password for admin from 198.51.100.4 port 89012 ssh2
+Apr 19 09:40:17 server sshd[4567]: Failed password for invalid user test4 from 203.0.113.5 port 90123 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr  2 10:15:21 server sshd[1234]: Failed password for invalid user test1 from 192.168.1.100 port 12345 ssh2
+Apr  3 12:30:45 server sshd[5678]: Accepted password for admin from 203.0.113.1 port 54321 ssh2
+Apr  4 08:45:12 server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  5 16:20:30 server sshd[9876]: pam_unix(sshd:session): session opened for user user1 by (uid=0)
+Apr  6 14:55:02 server sshd[2345]: Failed password for root from 198.51.100.1 port 98765 ssh2
+Apr  7 09:10:11 server sshd[3456]: Accepted password for admin from 203.0.113.2 port 65432 ssh2
+Apr  8 11:25:55 server sudo: pam_unix(sudo:session): session closed for user root
+Apr  9 13:40:18 server sshd[8765]: Failed password for invalid user test2 from 192.168.1.101 port 23456 ssh2
+Apr 10 17:00:33 server sshd[4321]: Accepted password for user1 from 198.51.100.2 port 34567 ssh2
+Apr 11 09:45:44 server sshd[5678]: Failed password for root from 203.0.113.3 port 87654 ssh2
+Apr 12 14:35:27 server sshd[7890]: Accepted password for admin from 192.168.1.102 port 45678 ssh2
+Apr 13 08:20:14 server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 14 16:10:09 server sshd[8901]: Failed password for invalid user test3 from 198.51.100.3 port 56789 ssh2
+Apr 15 12:55:36 server sshd[1234]: Accepted password for user1 from 203.0.113.4 port 67890 ssh2
+Apr 16 10:30:28 server sudo: pam_unix(sudo:session): session closed for user root
+Apr 17 13:15:05 server sshd[2345]: Failed password for root from 192.168.1.103 port 78901 ssh2
+Apr 18 15:50:22 server sshd[3456]: Accepted password for admin from 198.51.100.4 port 89012 ssh2
+Apr 19 09:40:17 server sshd[4567]: Failed password for invalid user test4 from 203.0.113.5 port 90123 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr  2 10:15:21 server sshd[1234]: Failed password for invalid user test1 from 192.168.1.100 port 12345 ssh2
+Apr  3 12:30:45 server sshd[5678]: Accepted password for admin from 203.0.113.1 port 54321 ssh2
+Apr  4 08:45:12 server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  5 16:20:30 server sshd[9876]: pam_unix(sshd:session): session opened for user user1 by (uid=0)
+Apr  6 14:55:02 server sshd[2345]: Failed password for root from 198.51.100.1 port 98765 ssh2
+Apr  7 09:10:11 server sshd[3456]: Accepted password for admin from 203.0.113.2 port 65432 ssh2
+Apr  8 11:25:55 server sudo: pam_unix(sudo:session): session closed for user root
+Apr  9 13:40:18 server sshd[8765]: Failed password for invalid user test2 from 192.168.1.101 port 23456 ssh2
+Apr 10 17:00:33 server sshd[4321]: Accepted password for user1 from 198.51.100.2 port 34567 ssh2
+Apr 11 09:45:44 server sshd[5678]: Failed password for root from 203.0.113.3 port 87654 ssh2
+Apr 12 14:35:27 server sshd[7890]: Accepted password for admin from 192.168.1.102 port 45678 ssh2
+Apr 13 08:20:14 server sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 14 16:10:09 server sshd[8901]: Failed password for invalid user test3 from 198.51.100.3 port 56789 ssh2
+Apr 15 12:55:36 server sshd[1234]: Accepted password for user1 from 203.0.113.4 port 67890 ssh2
+Apr 16 10:30:28 server sudo: pam_unix(sudo:session): session closed for user root
+Apr 17 13:15:05 server sshd[2345]: Failed password for root from 192.168.1.103 port 78901 ssh2
+Apr 18 15:50:22 server sshd[3456]: Accepted password for admin from 198.51.100.4 port 89012 ssh2
+Apr 19 09:40:17 server sshd[4567]: Failed password for invalid user test4 from 203.0.113.5 port 90123 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+Apr 20 11:20:31 server sshd[5678]: Accepted password for user1 from 192.168.1.104 port 12345 ssh2
+

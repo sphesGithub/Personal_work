@@ -1,0 +1,9 @@
+APT
+YUM
+DNF
+Pacman
+Zypper
+Portage
+Snap
+Flatpak
+dpkg

@@ -1,0 +1,20 @@
+Starting backup at Wed Mar 13 14:18:57 CDT 2024
+sending incremental file list
+utili/
+utili/package_managers.txt
+utili/services_file.txt
+utili/users.txt
+
+sent 2,352 bytes  received 77 bytes  4,858.00 bytes/sec
+total size is 2,031  speedup is 0.84
+Backup completed at Wed Mar 13 14:18:57 CDT 2024
+Starting backup at Thu Mar 14 04:46:27 CDT 2024
+sending incremental file list
+utili/
+utili/package_managers.txt
+utili/services_file.txt
+utili/users.txt
+
+sent 2,569 bytes  received 77 bytes  5,292.00 bytes/sec
+total size is 2,247  speedup is 0.85
+Backup completed at Thu Mar 14 04:46:27 CDT 2024

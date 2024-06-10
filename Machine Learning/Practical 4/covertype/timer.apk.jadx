@@ -1,0 +1,32 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "timer.apk"
+  ],
+  "treeExpansions": [
+    [
+      "Resources",
+      "timer.apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "resource",
+      "tabPath": "AndroidManifest.xml",
+      "subPath": "",
+      "caret": 431,
+      "view": {
+        "x": 906,
+        "y": 0
+      }
+    }
+  ],
+  "activeTab": 0,
+  "cacheDir": "timer.apk.cache",
+  "enableLiveReload": false,
+  "searchHistory": []
+}
