@@ -1,0 +1,29 @@
+* Make components (done)
+navbar (done)
+footer (done)
+header (done)
+
+form validations
+contact us form
+sign in form 
+sign up form
+add event form
+
+
+when signing up make sure email doesn't exist
+
+sign in should be working - user
+sign in working for admin
+
+pull data from the db
+
+adding in data
+
+editing in data
+
+profile.php
+
+on gender -- once you specify we will show a drop down for all the genders
+
+
+(bonus: email verification ... )
